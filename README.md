@@ -2,10 +2,6 @@
 
 ## Live Link: https://parallax-crafts.web.app
 
-# B9 A10 Type-02
-
-## Type: Ceramics and Pottery
-
 ## Features
 
 -   dynamic titles for each page
